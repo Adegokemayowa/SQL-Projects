@@ -588,6 +588,7 @@ WHERE plan_id = 2
 |churned_customers|
 |-----------------|
 |0                |
-In 2020, there were no instances where customers downgraded from a pro monthly plan to a basic monthly plan.
+
+- In 2020, there were no instances where customers downgraded from a pro monthly plan to a basic monthly plan.
 
 ***
